@@ -23,6 +23,6 @@ Twitter : https://twitter.com/william_renaldy?t=tqsfP_REBQNJDxIRr75Beg&s=09
 
 LinkedIn : https://www.linkedin.com/in/william-renaldy-5ba97b175
 
-Hackerrank : william_renaldy
+Hackerrank : https://www.hackerrank.com/william_renaldy
 
 Tic - tac - toe has has been launched with new difficulty levels that makes almost impossible to win against hard level computer.
